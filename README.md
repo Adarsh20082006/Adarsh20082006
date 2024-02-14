@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hii there👋👋!!
 I'm a first year CSE student<br>Aspiring to become a web developer<br>Open to learn new skills<br>
 
 
