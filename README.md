@@ -7,7 +7,7 @@ I'm a first year CSE student 💥⚡<br>Open to learn new skills 🧑‍💻❄�
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adarsh20082006&theme=midnight-purple_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh20082006&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh20082006&theme=midnight-purple border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh20082006&theme=midnight-purpleborder=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adarsh20082006&icon=6&color=7)](https://visitcount.itsvg.in)
