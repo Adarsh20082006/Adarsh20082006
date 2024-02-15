@@ -1,4 +1,4 @@
-# Hii there👋👋:
+# Hii there Adarsh here..!
 I'm a first year CSE student 💥⚡<br>Open to learn new skills 🧑‍💻❄️<br>Aspiring to become web developer ✨❤️
 
 
