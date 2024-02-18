@@ -1,5 +1,5 @@
 # <strong><b>Hii there Adarsh here..!👋👋</b></strong>
-<h4>I'm CSE student 💥🧑‍💻</h4><h4><br><br>Aspiring web developer ✨❄️</h4><h4><br><br>Learning Javascript now🧑‍💻🌟<br><br></h4>
+<p>I'm CSE student 💥🧑‍💻<br><br>Aspiring web developer ✨❄️<br><br>Learning Javascript now🧑‍💻🌟<br><br></p>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Adarsh2006&label=Profile%20Views&color=12&icon=6&pretty=true" />
@@ -16,5 +16,9 @@
   strong {
     font-weight:bolder;
     font-size:30px;
-  }</style>
+  }
+  p{
+    font-size:20px;
+  }
+</style>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
