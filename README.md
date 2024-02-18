@@ -1,5 +1,5 @@
 # Hii there Adarsh here..!
-I'm CSE student 💥🧑‍💻<br>Aspiring web developer ✨❄️<br>
+I'm CSE student 💥🧑‍💻<br><br>Aspiring web developer ✨❄️<br><br>Learning Javascript now🧑‍💻🌟<br><br>
 
 
 # 💻 Tech Stack:
