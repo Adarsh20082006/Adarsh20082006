@@ -1,5 +1,5 @@
 # <strong><b>Hii there Adarsh here..!👋👋</b></strong>
-<p style="font-size:20px">I'm CSE student 💥🧑‍💻<br><br>Aspiring web developer ✨❄️<br><br>Learning Javascript now🧑‍💻🌟<br><br></p>
+<p style="font-size:20px">🧑‍💻⚡First year CSE student <br><br>🙇💫Aspiring web developer <br><br>✍️🌟Currently learning Javascript now🧑‍💻🌟<br><br>How to reach me:<a href=adarshmm2006@gmail.com>Reach me</a></p>
 
 <a style="font-size:18px" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Adarsh2006&label=Profile%20Views&color=12&icon=6&pretty=true" />
