@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh20082006&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh20082006&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<style>
+<style
   strong {
     font-weight:bolder;
     font-size:30px;
@@ -20,5 +20,5 @@
   p{
     font-size:20px;
   }
-</style>
+/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
