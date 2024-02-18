@@ -1,4 +1,4 @@
-<strong style="font-weight:bolder" style="font-size:70px"><b>Hii there Adarsh here..!👋👋</b></strong>
+<strong style="font-weight:bolder" style="font-size:250px"><b>Hii there Adarsh here..!👋👋</b></strong>
 <p style="font-size:20px">🧑‍💻⚡First year CSE student...<br><br>🙇💫Aspiring web developer... <br><br>✍️🌟Currently learning Javascript...<br><br>🧑‍🏫💌How to reach me:<a href=adarshmm2006@gmail.com>Reach me</a></p>
 
 <a style="font-size:18px" href="https://visitcount.itsvg.in">
