@@ -1,12 +1,8 @@
 # Hii there Adarsh here..!👋👋
 <p style="font-size:30px">🧑‍💻⚡First year CSE student...<br><br>🙇💫Aspiring web developer... <br><br>✍️🌟Currently learning Javascript...<br><br><br></p>
 
-<a href="https://visitcount.itsvg.in">
-
   <img src="https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in"/>
 
-
-</a>
 
 [![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
