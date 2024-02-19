@@ -4,6 +4,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=3&icon=0&pretty=true"/>
 </a>
+
 [![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 # 💻 Skill Sets:
@@ -13,5 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh20082006&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh20082006&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=1&icon=9&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
