@@ -2,7 +2,7 @@
 <p style="font-size:30px">🧑‍💻⚡First year CSE student...<br><br>🙇💫Aspiring web developer... <br><br>✍️🌟Currently learning Javascript...<br><br><br></p>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Adarsh2006g&label=Profile%20Views&color=12&icon=6&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=3&icon=0&pretty=true" />
 </a>
 
 # 💻 Skill Sets:
