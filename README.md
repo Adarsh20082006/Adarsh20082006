@@ -8,24 +8,9 @@
  
 </p><br>
 
-   <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;      
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank">Follow on LinkedIn</a>
+  
+<a     
+  class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank">Follow on LinkedIn</a>
 
 # 💻 Skill Sets:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=Javascript&logoColor=yellow)<br><br></p>
