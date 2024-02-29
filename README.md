@@ -5,7 +5,7 @@
   🧑‍💻⚡First year CSE student...<br><br>
   🙇💫Aspiring Fullstack web developer... <br><br>
   ✍️🌟Currently learning Javascript...<br><br>
-🚂✈️Connect with me on LinkdIn: <a     
+🚂✈️Connect with me on LinkdIn: <a style="text-decoration:none"  
   class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank">connect..!</a>
 
 # 💻 Skill Sets:
