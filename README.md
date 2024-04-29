@@ -1,7 +1,6 @@
 
 <h1 font-align:center;> Hii there Adarsh here..!👋👋</h1>
 <h3 align: center;>Passinated web developer from India👨‍💻 </h3>
-![](https://komarev.com/ghpvc/?username=Adarsh20082006&abbreviated=true)
 <p align:left;>
   🧑‍💻⚡First year CSE student...<br><br>
   🙇💫Aspiring Fullstack web developer... <br><br>
