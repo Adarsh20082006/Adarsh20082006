@@ -1,4 +1,4 @@
-
+<body text-align:center>
 <h1 font-align:center;> Hii there Adarsh here..!👋👋</h1>
 <h3 align: center;>Passinated web developer from India👨‍💻 </h3>
 <p align:left;>
@@ -14,5 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Adarsh20082006&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adarsh20082006&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh20082006&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</body>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
