@@ -1,6 +1,6 @@
 # Hii there Adarsh here!👋👋
   🧑‍💻⚡ First year CSE student...<br>  🙇💫 Aspiring Full stack web developer...<br>  ✍️🌟 Currently learning JavaScript...<br>🚂✈️ <a style="text-decoration:none"  
-  class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank">Connect</a> with me on LinkedIn 
+  href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank">Connect</a> with me on LinkedIn 
   
 [![](https://visitcount.itsvg.in/api?id=Adarsh20082006&icon=0&color=6)](https://visitcount.itsvg.in)
 
