@@ -1,5 +1,5 @@
 # Hii there Adarsh here..!👋👋
-  🧑‍💻⚡ First year CSE student...<br>  🙇💫 Aspiring Full stack web developer...<br>  ✍️🌟 Currently learning JavaScript...<br>🚂✈️ <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank" style='text-decoration: "none"'>Connect</a> with me on LinkedIn 
+  🧑‍💻⚡ First year CSE student...<br>  🙇💫 Aspiring Full stack web developer...<br><br>  ✍️🌟 Currently learning JavaScript...<br><br>🚂✈️ <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006" target="_blank" style='text-decoration: "none"'>Connect</a> with me on LinkedIn<br><br><br> 
   
 [![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=8&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
