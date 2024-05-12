@@ -2,7 +2,7 @@
 
 -------
 
-  🧑‍💻⚡ First year CSE student...<br><br>  🙇💫 Aspiring Full stack web developer...<br><br>  ✍️🌟 Currently working on basic JavaScript projects...<br><br>🚂✈️ [Connect]([https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006&style=text-decoration:none](https://www.linkedin.com/in/adarsh20082006/)) with me on LinkedIn<br><br><br> 
+  🧑‍💻⚡ First year CSE student...<br><br>  🙇💫 Aspiring Full stack web developer...<br><br>  ✍️🌟 Currently working on basic JavaScript projects...<br><br>🚂✈️ [Connect]([https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006&style=text-decoration:none)) with me on LinkedIn<br><br><br> 
   
 ![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=8&icon=4&pretty=true)
 
