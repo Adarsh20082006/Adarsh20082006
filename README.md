@@ -2,7 +2,7 @@
 
 -------
 
-  🧑‍💻⚡ First year CSE student...<br><br>  🙇💫 Aspiring Full stack web developer...<br><br>  ✍️🌟 Currently working on basic JavaScript projects...<br><br>🚂✈️ [Connect](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006) with me on LinkedIn<br><br> 🧑‍🏫🗃️ Check out [https://www.canva.com/design/DAGI3eV5e-o/E_RXxpOdl3VMoVvQ8Na4fg/view?utm_content=DAGI3eV5e-o&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGI3eV5e-o/q-XPKBe0wBRyXchVQuL5nw/edit?utm_content=DAGI3eV5e-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))<br><br><br> 
+  🧑‍💻⚡ First year CSE student...<br><br>  🙇💫 Aspiring Full stack web developer...<br><br>  ✍️🌟 Currently working on basic JavaScript projects...<br><br>🚂✈️ [Connect](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarsh20082006) with me on LinkedIn<br><br> 🧑‍🏫🗃️ Check out [My resume](https://www.canva.com/design/DAGI3eV5e-o/E_RXxpOdl3VMoVvQ8Na4fg/view?utm_content=DAGI3eV5e-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br><br><br> 
   
 ![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=8&icon=4&pretty=true)
 
