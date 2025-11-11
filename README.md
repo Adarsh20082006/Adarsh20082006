@@ -2,8 +2,9 @@
 
 -------
 
-  🧑‍💻⚡ Third year CSE student...<br><br>  🙇💫 Aspiring Full stack web developer...<br><br>🚂✈️ [Connect](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarshmm2006) with me on LinkedIn.<br><br> 🧑‍🏫🗃️ Check out [My resume.](https://www.canva.com/design/DAGI3eV5e-o/E_RXxpOdl3VMoVvQ8Na4fg/view?utm_content=DAGI3eV5e-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br><br><br> 
+  🧑‍💻⚡ Third year CSE student...<br><br>  🙇💫 Aspiring AIML Engineer...<br><br>🚂✈️ [Connect](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adarshmm2006) with me on LinkedIn.<br><br> 🧑‍🏫🗃️ Check out [Resume](https://github.com/user-attachments/files/23477870/Adarsh_M_M.resume.temp.pdf)<br><br><br> 
   
+
 ![](https://visitcount.itsvg.in/api?id=Adarsh20082006&label=Profile%20Views&color=8&icon=4&pretty=true)
 
 # 💻 Tech skills:
